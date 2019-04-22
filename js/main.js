@@ -1,6 +1,6 @@
 const mainContent = document.querySelector('main');
 const navItems = document.querySelectorAll('.navigation ul li a');
-let path = 'http://localhost:8888/hot-topic/partials/home.html'
+let path = 'https://jason9111.github.io/hot-topics/partials/home.html'
 
 function handleClick(ev){
 	ev.preventDefault();
